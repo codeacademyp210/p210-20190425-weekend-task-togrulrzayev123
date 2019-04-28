@@ -1,0 +1,7 @@
+C:\Users\code\Desktop\p210-20190425-weekend-task-togrulrzayev123\Class homework\Class homework\bin\Debug\Class homework.exe.config
+C:\Users\code\Desktop\p210-20190425-weekend-task-togrulrzayev123\Class homework\Class homework\bin\Debug\Class homework.exe
+C:\Users\code\Desktop\p210-20190425-weekend-task-togrulrzayev123\Class homework\Class homework\bin\Debug\Class homework.pdb
+C:\Users\code\Desktop\p210-20190425-weekend-task-togrulrzayev123\Class homework\Class homework\obj\Debug\Class homework.csprojAssemblyReference.cache
+C:\Users\code\Desktop\p210-20190425-weekend-task-togrulrzayev123\Class homework\Class homework\obj\Debug\Class homework.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\p210-20190425-weekend-task-togrulrzayev123\Class homework\Class homework\obj\Debug\Class homework.exe
+C:\Users\code\Desktop\p210-20190425-weekend-task-togrulrzayev123\Class homework\Class homework\obj\Debug\Class homework.pdb
